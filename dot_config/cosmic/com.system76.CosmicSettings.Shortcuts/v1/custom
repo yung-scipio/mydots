@@ -1,0 +1,13 @@
+{
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Return",
+    ): Spawn("foot zellij"),
+    (
+        modifiers: [
+            Super,
+        ],
+    ): System(WorkspaceOverview),
+}
